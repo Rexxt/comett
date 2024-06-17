@@ -15,6 +15,8 @@ comett has songs from various different origins:
 
 and much more.
 
+[View the songlist here.](/songlist)
+
 # playlists
 ## comett SL
 SL playlists are aimed to assess a player's Skill Level. There are 12 skill check playlists in the pack, SL1 through SL12, roughly corresponding to songs rated 3/4 through 18/19/20.
