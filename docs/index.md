@@ -15,7 +15,7 @@ comett has songs from various different origins:
 
 and much more.
 
-[View the songlist here.](/songlist)
+[View the songlist here.](/comett/songlist)
 
 # playlists
 ## comett SL
