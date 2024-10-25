@@ -2,7 +2,7 @@
 
 | Title     | Subtitle        | Artist     | BG/Charter | EZ/Charter | NM/Charter | HD/Charter | IN/Charter | ED/Charter |
 |-----------|-----------------|------------|------------|------------|------------|------------|------------|------------|
-| Bloodrush | In The Groove 2 | Tekno Dred | -          | -          | -          | -          | 16/Mizu    | -          |
+| Bloodrush | In The Groove 2 | Tekno Dred | -          | -          | -          | 12/Mizu    | 16/Mizu    | -          |
 |           |                 |            |            |            |            |            |            |            |
 |           |                 |            |            |            |            |            |            |            |
 
